@@ -1,0 +1,9 @@
+com\shoppingmall\config\ApplicationConfig.class
+com\shoppingmall\exception\GlobalExceptionHandler.class
+com\shoppingmall\exception\UserNotFoundException.class
+com\shoppingmall\repository\IUserRepository.class
+com\shoppingmall\controller\UserController.class
+com\shoppingmall\ShoppingMallManagementApplication.class
+com\shoppingmall\service\impl\UserServiceImpl.class
+com\shoppingmall\entity\User.class
+com\shoppingmall\service\IUserService.class
